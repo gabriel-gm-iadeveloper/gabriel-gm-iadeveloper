@@ -107,5 +107,5 @@ Engineering in Computer Science, specialization in Artificial Intelligence
 
 ## 📫 Contact
 
-- LinkedIn: linkedin.com/in/gabriel-gonzalez-mundaca-a9568a395
+- LinkedIn: https://www.linkedin.com/in/gabriel-gonzalez-mundaca-a9568a395/
 - Email: gabriel.gm.iadeveloper@gmail.com
